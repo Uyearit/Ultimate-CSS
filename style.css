@@ -1,0 +1,23 @@
+#title {
+  color: rebeccapurple;
+}
+
+#about-me {
+  color: blue;
+}
+
+.subtitle {
+  color: brown;
+}
+
+#contact-us {
+  color: green;
+}
+
+ul li:first-child {
+  color: salmon;
+}
+
+li:nth-child(2) {
+  color: lawngreen;
+}
